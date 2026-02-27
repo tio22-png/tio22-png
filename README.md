@@ -14,19 +14,36 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const Tio = {
-  role      : "Informatics Student 🎓",
-  passion   : ["Web Development", "UI/UX", "Open Source"],
-  stack     : {
-    frontend  : ["React", "JavaScript", "HTML", "CSS"],
-    backend   : ["Laravel", "PHP"],
-    tools     : ["Git", "VS Code", "Figma"],
-  },
-  learning  : "Always building cool stuff 🚀",
-  funFact   : "Dark mode is the only mode 🌑",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+### Hi, I'm Tio! 👨‍💻
+
+🎓 &nbsp; **Informatics Student** — learning every day  
+💻 &nbsp; Love building modern web apps  
+⚡ &nbsp; Stack favorit: **React · JavaScript · Laravel**  
+🌙 &nbsp; Hardcore dark mode user  
+☕ &nbsp; Ditenagai kopi dan rasa penasaran  
+🚀 &nbsp; Selalu belajar hal baru dan *level up*  
+
+<br/>
+
+**🎯 Currently Working With:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+  </td>
+  <td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
