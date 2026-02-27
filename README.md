@@ -92,15 +92,11 @@
 
 ---
 
-## 🐍 Contribution Graph
+## � Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tio22-png/tio22-png/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tio22-png/tio22-png/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tio22-png/tio22-png/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![Tio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tio22-png&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/tio22-png)
 
 </div>
 
